@@ -2,7 +2,7 @@
 *Autor: Gianfranco Romero*
 
 ## Descripción:
-Este repositorio corresponde al proyecto *Polis & Data*, un proyecto personal de difusión en redes sociales. El proyecto consiste en el procesamiento de datos cuantitativos relacionados a temas sociopolíticos de interés público para su presentación ante un público masivo. De esta manera, se busca llevar a la ciencia política más allá del ámbito académico y acercar sus aportes a la ciudadanía. El repositorio busca transparentar el proceso realizado para pasar de datos fríos a gráficos presentables. Así, se busca formar un proyecto de difusión en línea con los principios de [open science](https://es.wikipedia.org/wiki/Ciencia_abierta).
+Este repositorio corresponde al proyecto *Polis & Data*, un proyecto personal de difusión en redes sociales. El proyecto consiste en el procesamiento de datos cuantitativos relacionados a temas sociopolíticos de interés público para su presentación ante un público masivo. De esta manera, se busca llevar a la ciencia política más allá del ámbito académico y acercar sus aportes a la ciudadanía. El repositorio busca transparentar el proceso realizado para pasar de datos fríos a gráficos presentables. Así, se busca formar un proyecto de difusión en línea con los principios de [open science](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_ES/02OpenScienceBasics/01OpenConceptsAndPrinciples.html).
 
 ## Estructura del repositorio
 
